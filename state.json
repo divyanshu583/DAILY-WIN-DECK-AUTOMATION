@@ -1,17 +1,70 @@
 {
   "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive). Process oldest first.",
-  "processed": {},
+  "processed": {
+    "1a213b691a575da2": {
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T17:17:22Z",
+      "received_ist": "2026-11-25 22:47:22 IST",
+      "attachments": "WIN deck to design",
+      "due_run": "2026-11-26",
+      "client": "Divek Karagwal",
+      "company": "MoEngage",
+      "slides": 11,
+      "processed_at": "2026-11-25 22:58 IST (manual request)",
+      "drive_folder": "https://drive.google.com/drive/folders/1kL4fVuT9xJtfm1h29ZoRLIiIZZWPbAEI",
+      "sheet_row": "WIN DECK LINKS Sheet1!A9"
+    }
+  },
   "failed": {},
   "pending": {
-    "1a2121353a436ef4": {"sender": "win@nxtjob.ai", "received_utc": "2026-11-25T09:39:32Z", "received_ist": "2026-11-25 15:09:32 IST", "attachments": "draft WIN pptx", "due_run": "2026-11-26"},
-    "1a212b62b26e93f4": {"sender": "win@nxtjob.ai", "received_utc": "2026-11-25T12:37:24Z", "received_ist": "2026-11-25 18:07:24 IST", "attachments": "resume, draft deck, logo, Marsh screenshot", "due_run": "2026-11-26"},
-    "1a212f6afc4953fa": {"sender": "webserious00@gmail.com", "received_utc": "2026-11-25T13:48:00Z", "received_ist": "2026-11-25 19:18:00 IST", "attachments": "resume, draft deck, JD, logo, Kimberly-Clark screenshots", "due_run": "2026-11-26"},
-    "1a212f6db37f26c0": {"sender": "webserious00@gmail.com", "received_utc": "2026-11-25T13:48:10Z", "received_ist": "2026-11-25 19:18:10 IST", "attachments": "resume, draft deck, JD, logo, LTM screenshots", "due_run": "2026-11-26"},
-    "1a212f70505a7936": {"sender": "webserious00@gmail.com", "received_utc": "2026-11-25T13:48:23Z", "received_ist": "2026-11-25 19:18:23 IST", "attachments": "resume, draft deck, JD, logo, Nexdigm screenshots", "due_run": "2026-11-26"},
-    "1a213935dddf04b3": {"sender": "win@nxtjob.ai", "received_utc": "2026-11-25T16:38:59Z", "received_ist": "2026-11-25 22:08:59 IST", "attachments": "WIN deck to refine", "due_run": "2026-11-26"},
-    "1a213b691a575da2": {"sender": "win@nxtjob.ai", "received_utc": "2026-11-25T17:17:22Z", "received_ist": "2026-11-25 22:47:22 IST", "attachments": "WIN deck to design", "due_run": "2026-11-26"}
+    "1a2121353a436ef4": {
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T09:39:32Z",
+      "received_ist": "2026-11-25 15:09:32 IST",
+      "attachments": "draft WIN pptx",
+      "due_run": "2026-11-26"
+    },
+    "1a212b62b26e93f4": {
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T12:37:24Z",
+      "received_ist": "2026-11-25 18:07:24 IST",
+      "attachments": "resume, draft deck, logo, Marsh screenshot",
+      "due_run": "2026-11-26"
+    },
+    "1a212f6afc4953fa": {
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:00Z",
+      "received_ist": "2026-11-25 19:18:00 IST",
+      "attachments": "resume, draft deck, JD, logo, Kimberly-Clark screenshots",
+      "due_run": "2026-11-26"
+    },
+    "1a212f6db37f26c0": {
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:10Z",
+      "received_ist": "2026-11-25 19:18:10 IST",
+      "attachments": "resume, draft deck, JD, logo, LTM screenshots",
+      "due_run": "2026-11-26"
+    },
+    "1a212f70505a7936": {
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:23Z",
+      "received_ist": "2026-11-25 19:18:23 IST",
+      "attachments": "resume, draft deck, JD, logo, Nexdigm screenshots",
+      "due_run": "2026-11-26"
+    },
+    "1a213935dddf04b3": {
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T16:38:59Z",
+      "received_ist": "2026-11-25 22:08:59 IST",
+      "attachments": "WIN deck to refine",
+      "due_run": "2026-11-26"
+    }
   },
   "dropped": {
-    "1a211f315c9f65d1": {"sender": "win@nxtjob.ai", "received_ist": "2026-11-25 14:34:19 IST", "reason": "Message no longer exists in Gmail (deleted, not in trash) as of 2026-11-25 22:48 IST run; cannot be processed."}
+    "1a211f315c9f65d1": {
+      "sender": "win@nxtjob.ai",
+      "received_ist": "2026-11-25 14:34:19 IST",
+      "reason": "Message no longer exists in Gmail (deleted, not in trash) as of 2026-11-25 22:48 IST run; cannot be processed."
+    }
   }
 }

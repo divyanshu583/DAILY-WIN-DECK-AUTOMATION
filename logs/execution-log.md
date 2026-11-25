@@ -12,3 +12,8 @@
 - Completed: 0 | Failed: 0 | Retries: 0
 - Pending for 2026-11-26 15:00 IST run: 7 emails received after today's 15:00 cutoff (15:09, 18:07, 19:18 ×3, 22:08, 22:47 IST) — see state.json.
 - No deliverables generated.
+
+## Manual run 2026-11-25 ~22:58 IST (user request: process the 22:47 IST email)
+- msg `1a213b691a575da2` (win@nxtjob.ai) → **Completed**: Divek Karagwal – MoEngage, 11 slides, PPTX + PDF.
+  Drive: https://drive.google.com/drive/folders/1kL4fVuT9xJtfm1h29ZoRLIiIZZWPbAEI · Tracker row A9.
+- Remaining pending for 2026-11-26 run: 6.
