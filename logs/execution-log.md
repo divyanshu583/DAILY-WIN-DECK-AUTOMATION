@@ -15,3 +15,8 @@
   - `1a2121353a436ef4` — win@nxtjob.ai, 15:09:32 IST, urgent WIN deck from GPT-made pptx
   - `1a212b62b26e93f4` — win@nxtjob.ai, 18:07:24 IST, resume + draft deck + Marsh logo/screenshot
 - No deliverables generated.
+
+## Manual run 2026-11-25 (~18:20 IST, user request)
+- Processed `1a212b62b26e93f4` (Melville Dsouza → Marsh, received 18:07 IST) ahead of its scheduled window at user's request.
+- Result: SUCCESS — 13-slide WIN deck (PPTX + PDF), Drive folder https://drive.google.com/drive/folders/1uxrPAVdBNz1Q_UII5LBUpWHSUYD0bB15, tracker row Sheet1!A3.
+- Still pending for 2026-11-26 run: `1a2121353a436ef4` (15:09 IST).

@@ -1,6 +1,23 @@
 {
   "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive). Scope: inbox (read+unread); trashed mail ignored.",
-  "processed": {},
+  "processed": {
+    "1a212b62b26e93f4": {
+      "thread_id": "1a212b62b26e93f4",
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T12:37:24Z",
+      "received_ist": "2026-11-25 18:07:24 IST",
+      "summary": "Resume, draft deck, target company logo, Marsh website screenshot; redesign WIN deck.",
+      "first_seen_run": "2026-11-25",
+      "status": "success",
+      "completed": "2026-11-25 ~18:20 IST",
+      "trigger": "Manual user request (ahead of next scheduled window)",
+      "client": "Melville Dsouza",
+      "company": "Marsh",
+      "slides": 13,
+      "drive_folder": "https://drive.google.com/drive/folders/1uxrPAVdBNz1Q_UII5LBUpWHSUYD0bB15",
+      "tracker_row": "Sheet1!A3:B3"
+    }
+  },
   "failed": {},
   "skipped": {
     "1a211f315c9f65d1": {
@@ -18,15 +35,6 @@
       "received_utc": "2026-11-25T09:39:32Z",
       "received_ist": "2026-11-25 15:09:32 IST",
       "summary": "Urgent WIN deck; attached WIN pptx from job positioning GPT.",
-      "reason": "After 15:00 IST cutoff; belongs to window ending 2026-11-26 15:00 IST.",
-      "first_seen_run": "2026-11-25"
-    },
-    "1a212b62b26e93f4": {
-      "thread_id": "1a212b62b26e93f4",
-      "sender": "win@nxtjob.ai",
-      "received_utc": "2026-11-25T12:37:24Z",
-      "received_ist": "2026-11-25 18:07:24 IST",
-      "summary": "Resume, draft deck, target company logo, Marsh website screenshot; redesign WIN deck.",
       "reason": "After 15:00 IST cutoff; belongs to window ending 2026-11-26 15:00 IST.",
       "first_seen_run": "2026-11-25"
     }
