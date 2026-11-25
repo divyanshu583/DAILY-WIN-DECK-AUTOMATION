@@ -17,3 +17,10 @@
   - `1a212f6db37f26c0` webserious00@gmail.com 19:18:10 IST (LTM)
   - `1a212f70505a7936` webserious00@gmail.com 19:18:23 IST (Nexdigm)
 - No deliverables generated.
+
+## Manual run 2026-11-25 (user request) — 3 emails processed early
+- Completed: 3 (client Melville Dsouza, 13 slides each; sheet rows 4–6 appended)
+  - `1a212f70505a7936` Nexdigm → https://drive.google.com/drive/folders/1XI_C3tY0RdzVD39OwMCc26DaLCzaiuFi
+  - `1a212f6afc4953fa` Kimberly-Clark → https://drive.google.com/drive/folders/1fZPTIcFiyOiIbU94uzJ1d_lpvF97AoVd
+  - `1a212f6db37f26c0` LTM → https://drive.google.com/drive/folders/1tIEd3sPz984_cnqqlz9bz43xS7AIUAWv (contains an "OLD - superseded" PDF to delete)
+- Still pending for 2026-11-26 run: `1a2121353a436ef4`, `1a212b62b26e93f4` (Marsh)

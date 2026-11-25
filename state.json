@@ -1,7 +1,38 @@
 {
   "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
   "last_run": "2026-11-25 (fired 19:21 IST)",
-  "processed": {},
+  "processed": {
+    "1a212f6afc4953fa": {
+      "sender": "webserious00@gmail.com",
+      "received_ist": "2026-11-25 19:18:00 IST",
+      "note": "Kimberly-Clark",
+      "due_run": "2026-11-26",
+      "client": "Melville Dsouza",
+      "company": "Kimberly-Clark",
+      "drive_folder": "https://drive.google.com/drive/folders/1fZPTIcFiyOiIbU94uzJ1d_lpvF97AoVd",
+      "completed": "2026-11-25 (manual run requested by user)"
+    },
+    "1a212f6db37f26c0": {
+      "sender": "webserious00@gmail.com",
+      "received_ist": "2026-11-25 19:18:10 IST",
+      "note": "LTM",
+      "due_run": "2026-11-26",
+      "client": "Melville Dsouza",
+      "company": "LTM",
+      "drive_folder": "https://drive.google.com/drive/folders/1tIEd3sPz984_cnqqlz9bz43xS7AIUAWv",
+      "completed": "2026-11-25 (manual run requested by user)"
+    },
+    "1a212f70505a7936": {
+      "sender": "webserious00@gmail.com",
+      "received_ist": "2026-11-25 19:18:23 IST",
+      "note": "Nexdigm",
+      "due_run": "2026-11-26",
+      "client": "Melville Dsouza",
+      "company": "Nexdigm",
+      "drive_folder": "https://drive.google.com/drive/folders/1XI_C3tY0RdzVD39OwMCc26DaLCzaiuFi",
+      "completed": "2026-11-25 (manual run requested by user)"
+    }
+  },
   "failed": {},
   "dropped": {
     "1a211f315c9f65d1": {
@@ -11,10 +42,16 @@
     }
   },
   "pending": {
-    "1a2121353a436ef4": {"sender": "win@nxtjob.ai", "received_ist": "2026-11-25 15:09:32 IST", "due_run": "2026-11-26"},
-    "1a212b62b26e93f4": {"sender": "win@nxtjob.ai", "received_ist": "2026-11-25 18:07:24 IST", "note": "Marsh", "due_run": "2026-11-26"},
-    "1a212f6afc4953fa": {"sender": "webserious00@gmail.com", "received_ist": "2026-11-25 19:18:00 IST", "note": "Kimberly-Clark", "due_run": "2026-11-26"},
-    "1a212f6db37f26c0": {"sender": "webserious00@gmail.com", "received_ist": "2026-11-25 19:18:10 IST", "note": "LTM", "due_run": "2026-11-26"},
-    "1a212f70505a7936": {"sender": "webserious00@gmail.com", "received_ist": "2026-11-25 19:18:23 IST", "note": "Nexdigm", "due_run": "2026-11-26"}
+    "1a2121353a436ef4": {
+      "sender": "win@nxtjob.ai",
+      "received_ist": "2026-11-25 15:09:32 IST",
+      "due_run": "2026-11-26"
+    },
+    "1a212b62b26e93f4": {
+      "sender": "win@nxtjob.ai",
+      "received_ist": "2026-11-25 18:07:24 IST",
+      "note": "Marsh",
+      "due_run": "2026-11-26"
+    }
   }
 }
