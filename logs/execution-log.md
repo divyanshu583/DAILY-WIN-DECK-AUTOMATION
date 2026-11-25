@@ -17,3 +17,9 @@
   - `1a212f6db37f26c0` webserious00@gmail.com — 19:18:10 IST (LTM)
   - `1a212f70505a7936` webserious00@gmail.com — 19:18:23 IST (Nexdigm)
   - `1a213935dddf04b3` win@nxtjob.ai — 22:08:59 IST (refine deck)
+
+## Manual run 2026-11-25 22:33 IST (requested by user)
+- `1a213935dddf04b3` (win@nxtjob.ai, "Refine the attached win deck", WIN Deloitte.pptx) → **SUCCESS**
+  - Vamsi Reddy - Deloitte, 13 slides (matches draft). Drive: https://drive.google.com/drive/folders/1esn_WKkyHbTRYyCgk-fnNmYNQMH5N4XN . Tracker row 8 appended.
+  - Notes: name spelled "Vamsi Reddy" per draft (email says "Vamshi"). Sandbox blocked Pexels/deloitte.com, so the hero image was drawn in brand colours and the other photos were reused from the draft. Logo is the official Deloitte wordmark SVG (GitHub mirror).
+- The tracker already lists Marsh/Nexdigm/Kimberly-Clark/LTM (Melville Dsouza) and Ashok Iron Works (Prabhakar SL), so those pending emails were probably delivered outside this routine. Check the tracker before rebuilding them.

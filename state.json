@@ -1,6 +1,23 @@
 {
   "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
-  "processed": {},
+  "processed": {
+    "1a213935dddf04b3": {
+      "thread_id": "1a213935dddf04b3",
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T16:38:59Z",
+      "received_ist": "2026-11-25 22:08:59 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25",
+      "status": "success",
+      "processed_at": "2026-11-25 22:33 IST",
+      "trigger": "manual request from user (ahead of 2026-11-26 run)",
+      "client": "Vamsi Reddy",
+      "company": "Deloitte",
+      "slides": 13,
+      "drive_folder": "https://drive.google.com/drive/folders/1esn_WKkyHbTRYyCgk-fnNmYNQMH5N4XN",
+      "tracker_row": "Sheet1!A8:B8"
+    }
+  },
   "failed": {},
   "pending": {
     "1a2121353a436ef4": {
@@ -42,14 +59,6 @@
       "received_ist": "2026-11-25 19:18:23 IST",
       "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
       "first_seen_run": "2026-11-25"
-    },
-    "1a213935dddf04b3": {
-      "thread_id": "1a213935dddf04b3",
-      "sender": "win@nxtjob.ai",
-      "received_utc": "2026-11-25T16:38:59Z",
-      "received_ist": "2026-11-25 22:08:59 IST",
-      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
-      "first_seen_run": "2026-11-25"
     }
   },
   "dropped": {
@@ -63,5 +72,8 @@
       "status": "not_found",
       "note": "Message no longer exists in Gmail (incl. trash) as of 2026-11-25 22:24 IST run; nothing to process."
     }
-  }
+  },
+  "notes": [
+    "2026-11-25 22:33 IST: WIN DECK LINKS tracker already contains rows for Melville Dsouza - Marsh/Nexdigm/Kimberly-Clark/LTM and Prabhakar SL - Ashok Iron Works, which look like the pending emails 1a212b62b26e93f4, 1a212f6afc4953fa, 1a212f6db37f26c0, 1a212f70505a7936 and possibly 1a2121353a436ef4. They were likely delivered outside this routine. Next run: check the tracker before rebuilding to avoid duplicate decks."
+  ]
 }
