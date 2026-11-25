@@ -1,15 +1,67 @@
 {
-  "description": "Daily WIN Deck automation state. Window: [prev day 14:30 IST, run day 14:30 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
+  "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
   "processed": {},
   "failed": {},
   "pending": {
+    "1a2121353a436ef4": {
+      "thread_id": "1a2121353a436ef4",
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T09:39:32Z",
+      "received_ist": "2026-11-25 15:09:32 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    },
+    "1a212b62b26e93f4": {
+      "thread_id": "1a212b62b26e93f4",
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T12:37:24Z",
+      "received_ist": "2026-11-25 18:07:24 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    },
+    "1a212f6afc4953fa": {
+      "thread_id": "1a212f6afc4953fa",
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:00Z",
+      "received_ist": "2026-11-25 19:18:00 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    },
+    "1a212f6db37f26c0": {
+      "thread_id": "1a212f6db37f26c0",
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:10Z",
+      "received_ist": "2026-11-25 19:18:10 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    },
+    "1a212f70505a7936": {
+      "thread_id": "1a212f70505a7936",
+      "sender": "webserious00@gmail.com",
+      "received_utc": "2026-11-25T13:48:23Z",
+      "received_ist": "2026-11-25 19:18:23 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    },
+    "1a213935dddf04b3": {
+      "thread_id": "1a213935dddf04b3",
+      "sender": "win@nxtjob.ai",
+      "received_utc": "2026-11-25T16:38:59Z",
+      "received_ist": "2026-11-25 22:08:59 IST",
+      "reason": "Received after 15:00 IST cutoff of 2026-11-25 window; belongs to window ending 2026-11-26 15:00 IST.",
+      "first_seen_run": "2026-11-25"
+    }
+  },
+  "dropped": {
     "1a211f315c9f65d1": {
       "thread_id": "1a211f315c9f65d1",
       "sender": "win@nxtjob.ai",
       "received_utc": "2026-11-25T09:04:19Z",
       "received_ist": "2026-11-25 14:34:19 IST",
       "reason": "Received after 14:30 IST cutoff of 2026-11-25 run window; belongs to window ending 2026-11-26 14:30 IST.",
-      "first_seen_run": "2026-11-25"
+      "first_seen_run": "2026-11-25",
+      "status": "not_found",
+      "note": "Message no longer exists in Gmail (incl. trash) as of 2026-11-25 22:24 IST run; nothing to process."
     }
   }
 }
