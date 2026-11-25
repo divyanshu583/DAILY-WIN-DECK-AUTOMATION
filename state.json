@@ -1,6 +1,24 @@
 {
   "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
-  "processed": {},
+  "processed": {
+    "1a2121353a436ef4": {
+      "thread_id": "1a2121353a436ef4",
+      "sender": "win@nxtjob.ai",
+      "client": "Vishal Nair (TMF Group)",
+      "attachment": "TMF_Group_WIN_Vishal_Nair.pptx",
+      "received_utc": "2026-11-25T09:39:32Z",
+      "received_ist": "2026-11-25 15:09:32 IST",
+      "first_seen_run": "2026-11-25",
+      "status": "success",
+      "processed_at": "2026-11-25 15:21 IST (manual run on user request, ahead of schedule)",
+      "slides": 6,
+      "drive_folder": "https://drive.google.com/drive/folders/1osVOK_bKdx1gvzZlmPJRFHZPEXi2cJNZ",
+      "pptx": "https://drive.google.com/file/d/1fCw8ANLLE6vItq-0WWtrzHjvAoOp1Ir6/view",
+      "pdf": "https://drive.google.com/file/d/1PjqZhBzXW1JbCwNjbkxG4WZoKI0kSRoe/view",
+      "tracker_row": "WIN DECK LINKS Sheet1!A2:B2",
+      "notes": "Logo missing (tmf-group.com blocked by session network policy); draft 11 slides consolidated to 6 per client instruction"
+    }
+  },
   "failed": {},
   "skipped": {
     "1a211f315c9f65d1": {
@@ -9,20 +27,9 @@
       "client": "Vishal Nair (TMF Group)",
       "received_utc": "2026-11-25T09:04:19Z",
       "received_ist": "2026-11-25 14:34:19 IST",
-      "reason": "In window, but found in TRASH at run time and superseded by identical re-sent request 1a2121353a436ef4 (same client, same attachment TMF_Group_WIN_Vishal_Nair.pptx). Not processed to avoid duplicate deck. Move to 'pending' manually if it should be processed.",
+      "reason": "In window, but found in TRASH at run time and superseded by identical re-sent request 1a2121353a436ef4 (same client, same attachment TMF_Group_WIN_Vishal_Nair.pptx). Not processed to avoid duplicate deck. Move to 'pending' manually if it should be processed. Same request fulfilled via 1a2121353a436ef4 on 2026-11-25.",
       "decided_run": "2026-11-25 (second run, 15:10 IST)"
     }
   },
-  "pending": {
-    "1a2121353a436ef4": {
-      "thread_id": "1a2121353a436ef4",
-      "sender": "win@nxtjob.ai",
-      "client": "Vishal Nair (TMF Group)",
-      "attachment": "TMF_Group_WIN_Vishal_Nair.pptx",
-      "received_utc": "2026-11-25T09:39:32Z",
-      "received_ist": "2026-11-25 15:09:32 IST",
-      "reason": "Received after 15:00 IST cutoff; belongs to window ending 2026-11-26 15:00 IST.",
-      "first_seen_run": "2026-11-25"
-    }
-  }
+  "pending": {}
 }

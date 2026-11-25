@@ -12,3 +12,9 @@
 - Completed: 0 | Failed: 0
 - Pending (next window): 1 — msg `1a2121353a436ef4` (Vishal Nair / TMF Group, received 15:09:32 IST, 9 min after cutoff). Will be processed in the 2026-11-26 run.
 - No deliverables generated.
+
+## Manual run 2026-11-25 (15:21 IST, on user request)
+- Processed msg `1a2121353a436ef4` (Vishal Nair → TMF Group) ahead of schedule — **SUCCESS**.
+- Output: 6-slide WIN deck (PPTX + PDF), Drive folder https://drive.google.com/drive/folders/1osVOK_bKdx1gvzZlmPJRFHZPEXi2cJNZ, tracker row A2 in WIN DECK LINKS.
+- Notes: TMF logo missing (site blocked by network policy); palette taken from client draft; 11-slide draft consolidated to 6 per client's "5–6 pages" note; contents slide merged into slide 2.
+- Pending: 0 | Failed: 0
