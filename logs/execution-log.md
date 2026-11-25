@@ -22,3 +22,7 @@
 ## Revision 2026-11-25 (15:41 IST, on user request)
 - Rebuilt Vishal Nair → TMF Group deck in TMF red/charcoal identity (v2); uploaded to same Drive folder; v1 files renamed "OLD v1 (superseded)". Tracker row unchanged (folder link same).
 - Logo still missing: official file unreachable from session network.
+
+## Revision v3 2026-11-25 (15:46 IST, on user request)
+- Added the official TMF Group logo (supplied by user) to slide 1; switched accent to exact TMF red #E7161C sampled from the logo.
+- Replaced Drive files (v1 + v2 moved to trash). Folder link and tracker row unchanged.
