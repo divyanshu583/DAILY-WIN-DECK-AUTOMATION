@@ -20,3 +20,7 @@
 - Processed `1a212b62b26e93f4` (Melville Dsouza → Marsh, received 18:07 IST) ahead of its scheduled window at user's request.
 - Result: SUCCESS — 13-slide WIN deck (PPTX + PDF), Drive folder https://drive.google.com/drive/folders/1uxrPAVdBNz1Q_UII5LBUpWHSUYD0bB15, tracker row Sheet1!A3.
 - Still pending for 2026-11-26 run: `1a2121353a436ef4` (15:09 IST).
+
+## Update 2026-11-25 (~18:32 IST, user request) — Melville Dsouza / Marsh
+- Replaced the drawn illustrations on slides 1, 3, 6, 8, 10 and 13 with photos from the client's image pack (Marsh_WIN_Deck_Image_Pack), in the same frames and positions; nothing else changed.
+- Uploaded the new PPTX and PDF to the same Drive folder; moved the old two files to Drive trash. Folder link and tracker row are unchanged.
