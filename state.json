@@ -1,14 +1,27 @@
 {
-  "description": "Daily WIN Deck automation state. Window: [prev day 14:30 IST, run day 14:30 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
+  "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
   "processed": {},
   "failed": {},
-  "pending": {
+  "skipped": {
     "1a211f315c9f65d1": {
       "thread_id": "1a211f315c9f65d1",
       "sender": "win@nxtjob.ai",
+      "client": "Vishal Nair (TMF Group)",
       "received_utc": "2026-11-25T09:04:19Z",
       "received_ist": "2026-11-25 14:34:19 IST",
-      "reason": "Received after 14:30 IST cutoff of 2026-11-25 run window; belongs to window ending 2026-11-26 14:30 IST.",
+      "reason": "In window, but found in TRASH at run time and superseded by identical re-sent request 1a2121353a436ef4 (same client, same attachment TMF_Group_WIN_Vishal_Nair.pptx). Not processed to avoid duplicate deck. Move to 'pending' manually if it should be processed.",
+      "decided_run": "2026-11-25 (second run, 15:10 IST)"
+    }
+  },
+  "pending": {
+    "1a2121353a436ef4": {
+      "thread_id": "1a2121353a436ef4",
+      "sender": "win@nxtjob.ai",
+      "client": "Vishal Nair (TMF Group)",
+      "attachment": "TMF_Group_WIN_Vishal_Nair.pptx",
+      "received_utc": "2026-11-25T09:39:32Z",
+      "received_ist": "2026-11-25 15:09:32 IST",
+      "reason": "Received after 15:00 IST cutoff; belongs to window ending 2026-11-26 15:00 IST.",
       "first_seen_run": "2026-11-25"
     }
   }
