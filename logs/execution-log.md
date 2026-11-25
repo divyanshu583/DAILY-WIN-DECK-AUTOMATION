@@ -24,3 +24,7 @@
   - `1a212f6afc4953fa` Kimberly-Clark → https://drive.google.com/drive/folders/1fZPTIcFiyOiIbU94uzJ1d_lpvF97AoVd
   - `1a212f6db37f26c0` LTM → https://drive.google.com/drive/folders/1tIEd3sPz984_cnqqlz9bz43xS7AIUAWv (contains an "OLD - superseded" PDF to delete)
 - Still pending for 2026-11-26 run: `1a2121353a436ef4`, `1a212b62b26e93f4` (Marsh)
+
+## Revision 2026-11-25 (user request) — Nexdigm & Kimberly-Clark
+- Image slides now alternate sides (1 L, 2 R, 3 L, 6 R, 8 L, 10 R); spacing tightened; wording unchanged.
+- Drive folders updated: old PPTX/PDF trashed, new ones uploaded (folder links unchanged, sheet untouched).
