@@ -18,3 +18,7 @@
 - Output: 6-slide WIN deck (PPTX + PDF), Drive folder https://drive.google.com/drive/folders/1osVOK_bKdx1gvzZlmPJRFHZPEXi2cJNZ, tracker row A2 in WIN DECK LINKS.
 - Notes: TMF logo missing (site blocked by network policy); palette taken from client draft; 11-slide draft consolidated to 6 per client's "5–6 pages" note; contents slide merged into slide 2.
 - Pending: 0 | Failed: 0
+
+## Revision 2026-11-25 (15:41 IST, on user request)
+- Rebuilt Vishal Nair → TMF Group deck in TMF red/charcoal identity (v2); uploaded to same Drive folder; v1 files renamed "OLD v1 (superseded)". Tracker row unchanged (folder link same).
+- Logo still missing: official file unreachable from session network.

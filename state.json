@@ -13,10 +13,11 @@
       "processed_at": "2026-11-25 15:21 IST (manual run on user request, ahead of schedule)",
       "slides": 6,
       "drive_folder": "https://drive.google.com/drive/folders/1osVOK_bKdx1gvzZlmPJRFHZPEXi2cJNZ",
-      "pptx": "https://drive.google.com/file/d/1fCw8ANLLE6vItq-0WWtrzHjvAoOp1Ir6/view",
-      "pdf": "https://drive.google.com/file/d/1PjqZhBzXW1JbCwNjbkxG4WZoKI0kSRoe/view",
+      "pptx": "https://drive.google.com/file/d/1K8P9oNQ_4ptg6ILv7isknvd1P1mL6iUx/view",
+      "pdf": "https://drive.google.com/file/d/1FJLhFiVy2KgksTkxHx6DftQlHuJItmNe/view",
       "tracker_row": "WIN DECK LINKS Sheet1!A2:B2",
-      "notes": "Logo missing (tmf-group.com blocked by session network policy); draft 11 slides consolidated to 6 per client instruction"
+      "notes": "Official TMF logo file unreachable (tmf-group.com, brandfetch.com, wikimedia blocked by session network policy); 1x1in logo slot reserved top-left of slide 1. Palette: TMF red C8102E (approx., trademark = red square) + Brandfetch charcoal 2E2E3A / off-white F7F3ED. v1 files renamed 'OLD v1 (superseded)'.",
+      "revision": "v2 2026-11-25 15:41 IST — TMF red/charcoal theme on user request"
     }
   },
   "failed": {},
