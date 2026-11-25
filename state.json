@@ -11,5 +11,33 @@
       "reason": "Received after 14:30 IST cutoff of 2026-11-25 run window; belongs to window ending 2026-11-26 14:30 IST.",
       "first_seen_run": "2026-11-25"
     }
+  },
+  "one_pager": {
+    "description": "Daily WIN One-Pager automation state. Window: previous 24h ending at run time (scheduled 14:00 IST). Subject match: '1 Pager Required' (case-insensitive). Keys are Gmail message IDs; skip any already in 'processed'.",
+    "processed": {
+      "1a2127d820c01e42": {
+        "thread_id": "1a2127d820c01e42",
+        "sender": "win@nxtjob.ai",
+        "received_utc": "2026-11-25T11:35:31Z",
+        "client": "Abhishek Raj",
+        "company": "Buffer",
+        "drive_folder": "https://drive.google.com/drive/folders/1H3lcAeVNtNp8y5BFo2eREWD88TXssgDF",
+        "sheet_row": 2,
+        "completed_run": "2026-11-25",
+        "notes": "Official Buffer mark from simple-icons (buffer.com blocked by network policy)."
+      },
+      "1a2127f0bbab28d2": {
+        "thread_id": "1a2127f0bbab28d2",
+        "sender": "win@nxtjob.ai",
+        "received_utc": "2026-11-25T11:37:12Z",
+        "client": "Abhishek Raj",
+        "company": "Chapters",
+        "drive_folder": "https://drive.google.com/drive/folders/1mh2eUU6Sm4L23djp_P3MVox36gdW7mBc",
+        "sheet_row": 3,
+        "completed_run": "2026-11-25",
+        "notes": "LOGO MISSING - placeholder area left; chapters.global blocked by network policy."
+      }
+    },
+    "failed": {}
   }
 }
