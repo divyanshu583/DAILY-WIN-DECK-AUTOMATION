@@ -13,3 +13,4 @@
   - `1a2127f0bbab28d2`: Abhishek Raj – Chapters (Product Manager, Well-being App) → https://drive.google.com/drive/folders/1mh2eUU6Sm4L23djp_P3MVox36gdW7mBc — **Logo missing**
 - ONE PAGER LINKS sheet: rows 2–3 appended.
 - Network: buffer.com, chapters.global and logo CDNs are blocked by this environment's network policy; brand research limited.
+- Follow-up 2026-11-25 17:26 IST: user supplied official Buffer and Chapters logos; both one-pagers rebuilt (PPTX + PDF) and replaced in their Drive folders (old versions trashed). Sheet links unchanged.
