@@ -1,0 +1,17 @@
+{
+  "description": "Daily WIN One-Pager automation state. Window: [prev day 14:00 IST, run day 14:00 IST); subject match '1 Pager Required' (case-insensitive). Keyed by Gmail message id to prevent duplicate processing.",
+  "processed": {
+    "1a212cf8b9eb7477": {
+      "thread_id": "1a212cf8b9eb7477",
+      "sender": "win@nxtjob.ai",
+      "received_ist": "2026-11-25 18:35:06 IST",
+      "processed_run": "2026-11-25",
+      "client": "Kaushal",
+      "company": "HSBC",
+      "drive_folder": "https://drive.google.com/drive/folders/1TR4czElKs_SAD3lOvO3sWdQaayoA--E2",
+      "sheet_row": "ONE PAGER LINKS Sheet1!A4:B4",
+      "note": "Run fired at 18:37 IST (late); email arrived after 14:00 IST, processed in this run so it must be skipped in the 2026-11-26 window."
+    }
+  },
+  "failed": {}
+}
