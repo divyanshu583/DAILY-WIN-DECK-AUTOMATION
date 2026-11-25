@@ -1,15 +1,29 @@
 {
-  "description": "Daily WIN Deck automation state. Window: [prev day 14:30 IST, run day 14:30 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive).",
-  "processed": {},
-  "failed": {},
-  "pending": {
+  "description": "Daily WIN Deck automation state. Window: [prev day 15:00 IST, run day 15:00 IST). Subject match: 'WIN DECK REQUIRED' (case-insensitive). Keyed by Gmail message ID.",
+  "processed": {
     "1a211f315c9f65d1": {
       "thread_id": "1a211f315c9f65d1",
       "sender": "win@nxtjob.ai",
-      "received_utc": "2026-11-25T09:04:19Z",
+      "client": "Vishal Nair",
+      "company": "TMF Group",
       "received_ist": "2026-11-25 14:34:19 IST",
-      "reason": "Received after 14:30 IST cutoff of 2026-11-25 run window; belongs to window ending 2026-11-26 14:30 IST.",
-      "first_seen_run": "2026-11-25"
+      "processed_run": "2026-11-25",
+      "slides": 6,
+      "drive_folder": "https://drive.google.com/drive/folders/143_Mndgasb7Nib_fuNKeacBuk-qwX23P",
+      "pptx": "https://drive.google.com/file/d/1BuIYpDdFS5P1n0Fn8tQVrV9cePdNjcmO/view",
+      "pdf": "https://drive.google.com/file/d/1wkeYCqzXeBc3hLgofEvAlIMZjoxnz59K/view",
+      "notes": "Logo missing (tmf-group.com blocked by network policy; draft had only a recreated wordmark). 11 -> 6 slides per client instruction."
     }
-  }
+  },
+  "failed": {},
+  "pending": {},
+  "pending_tracker_rows": [
+    {
+      "message_id": "1a211f315c9f65d1",
+      "sheet_id": "1OKh8d9j4I1EAMQgLzt3oYJcLzY22uJhjLkUv3btBIT8",
+      "columns": ["Client name + targted company name", "WIN DECK drive folder link"],
+      "row": ["Vishal Nair - TMF Group", "https://drive.google.com/drive/folders/143_Mndgasb7Nib_fuNKeacBuk-qwX23P"],
+      "reason": "No Google Sheets editor connector available in the 2026-11-25 run; append on next run if the connector is enabled, or manually."
+    }
+  ]
 }
